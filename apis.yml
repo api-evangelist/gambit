@@ -9,6 +9,17 @@ description: 'Gambit Security is an Israeli cyber-resilience company, founded in
   Management (CRPM) and validating real-world recovery paths against ransomware and outages. It also
   automates compliance evidence for frameworks such as DORA, NIST CSF and SOX. Gambit does not
   currently publish a public developer API, OpenAPI, or developer portal.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
